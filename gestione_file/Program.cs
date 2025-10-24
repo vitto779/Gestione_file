@@ -10,7 +10,7 @@ namespace gestione_file
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ciaoooooooooooooo");
+            
         }
     }
 }
